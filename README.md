@@ -4,4 +4,10 @@ Programming is my passion since I learned computer programming with Fortran and 
 
 Linux had been a milestone in my life as a self-taught to learn Networking and Web Development. The fact that the Linux operating system can be configured to meet the computing needs, convinced me and I was passionate about open source software for Web Development, for molecular visualization such as RasMol, Jmol and JSmol; and molecular editors such as JSME and ChemDoodle Web Components.
 
-In my Job at “System Plus” I became responsible for developing its Website with HTML, CSS, and JavaScript. Once finished this, I assume the administration of the Website and I began to teach Web Development, in 2000.  I learned PHP and MySQL, I selected Moodle as the platform of eLearning for “System Plus” in 2006. I led the teams in developing a new Web site and the Academic Information System for “Sistemas Interactivos” with PHP and MySQL in 2007. Since 2011, despite being the director of "Sistemas Interactivos", I have been responsible for the administration and updating of these.
+In my Job at “System Plus” I became responsible for developing its Website with HTML, CSS, and JavaScript. Once finished this, I assume the administration of the Website and I began to teach Web Development, in 2000.  
+
+I learned PHP and MySQL, I selected Moodle as the platform of eLearning for “System Plus” in 2006. 
+
+I led the teams in developing a new Web site and the Academic Information System for “Sistemas Interactivos” with PHP and MySQL in 2007. 
+
+Since 2011, despite being the director of "Sistemas Interactivos", I have been responsible for the administration and updating of the Website and Web Aplicaction.
