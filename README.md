@@ -6,8 +6,8 @@ Linux had been a milestone in my life as a self-taught to learn Networking and W
 
 In my Job at “System Plus” I became responsible for developing its Website with HTML, CSS, and JavaScript. Once finished this, I assume the administration of the Website and I began to teach Web Development, in 2000.  
 
-I learned PHP and MySQL, I setup the platform of eLearning for “System Plus” with Moodle in 2006. 
+I learned PHP and MySQL and I setup the platform of eLearning for “System Plus” with Moodle in 2006. 
 
 I led the teams in developing a new Web site and the Academic Information System for “Sistemas Interactivos” with PHP and MySQL in 2007. 
 
-Since 2011, despite being the Director of "Sistemas Interactivos", I have been responsible for the administration and updating of its Web Platform, I studied the specializations as Webmaster and in hybrid mobile Apps development with JavaScripts frameworks and Apache Cordova and dedicated to developing mobile Apps in My free time. 
+Since 2011, despite being the Director of "Sistemas Interactivos", I have been responsible for the administration and updating of its Web Platform, I studied the specializations as Webmaster and in hybrid mobile Apps development with JavaScripts frameworks and Apache Cordova and dedicated to developing mobile Apps in My free time.
