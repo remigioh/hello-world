@@ -10,4 +10,4 @@ I learned PHP and MySQL, I selected Moodle as the platform of eLearning for “S
 
 I led the teams in developing a new Web site and the Academic Information System for “Sistemas Interactivos” with PHP and MySQL in 2007. 
 
-Since 2011, despite being the director of "Sistemas Interactivos", I have been responsible for the administration and updating of the Website and Web Aplicaction.
+Since 2011, despite being the Director of "Sistemas Interactivos", I have been responsible for the administration and updating of its Web Platform, I studied the specializations as Webmaster and in hybrid mobile Apps development with JavaScripts frameworks and Apache Cordova and dedicated to developing mobile Apps in My free time. 
